@@ -1,3 +1,14 @@
+## Authors:
+
+Aristotelis-Angelos Papadopoulos: aristotp@usc.edu
+
+Collin Purcell					        : collinpu@usc.edu
+
+Devershi Purohit				        : dupurohi@usc.edu
+
+Ishank Mishra					          : imishra@usc.edu 
+
+
 
 ## Motivation
 
@@ -309,19 +320,6 @@ systems. In Proceedings of the International Conference on Machine Learning (ICM
 15. T. Trouillon, et al. Complex embeddings for simple link prediction. In Proceedings of the International Conference on Machine Learning (ICML), vol. 33, pp. 2071–2080, 2016.
 16. T. Mikolov, et al. Distributed representations of words and phrases and their compositionality. In NIPS, pp. 3111–3119, 2013.
 17. X. Glorot, and Y. Bengio. Understanding the difficulty of training deep feedforward neural networks. In AISTATS, vol. 13, pp. 249–256, 2010.
-
-
-
-
-## Authors:
-
-Aristotelis-Angelos Papadopoulos: aristotp@usc.edu
-
-Collin Purcell					        : collinpu@usc.edu
-
-Devershi Purohit				        : dupurohi@usc.edu
-
-Ishank Mishra					          : imishra@usc.edu 
 
 <script type="text/javascript" async
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
